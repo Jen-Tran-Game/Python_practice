@@ -1,0 +1,1 @@
+1. Tạo một class gồm họ tên, tuổi, CCCD, địa chỉ, phương thức chào, 
