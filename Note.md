@@ -57,7 +57,7 @@
   ---
 
 
-  2. Public, protected, private
+  2. **Public, protected, private**
 
      `public`: truy cập công khai, bất kỳ class nào cũng có thể truy cập
 
