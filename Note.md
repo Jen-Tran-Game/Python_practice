@@ -1,4 +1,4 @@
-1. **Class**
+**1. Class**
 
 * Tạo một class `Person` có các đặc tính: **name, age, ID, school, address** và có phương thức: **greeting, introduce**
 
@@ -36,7 +36,7 @@
   person2.introduce()
   ```
 
-*Giải thích: 
+***Giải thích:** 
 
 * `def __init__ (self, name, age, ID, school, address):`
 
